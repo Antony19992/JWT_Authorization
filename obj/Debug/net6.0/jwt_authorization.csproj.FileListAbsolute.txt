@@ -1,0 +1,45 @@
+D:\Users\Antony\Documents\Beras sistemas\jwt_authorization\obj\Debug\net6.0\jwt_authorization.csproj.AssemblyReference.cache
+D:\Users\Antony\Documents\Beras sistemas\jwt_authorization\obj\Debug\net6.0\jwt_authorization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Antony\Documents\Beras sistemas\jwt_authorization\obj\Debug\net6.0\jwt_authorization.AssemblyInfoInputs.cache
+D:\Users\Antony\Documents\Beras sistemas\jwt_authorization\obj\Debug\net6.0\jwt_authorization.AssemblyInfo.cs
+D:\Users\Antony\Documents\Beras sistemas\jwt_authorization\obj\Debug\net6.0\jwt_authorization.csproj.CoreCompileInputs.cache
+D:\Users\Antony\Documents\Beras sistemas\jwt_authorization\obj\Debug\net6.0\jwt_authorization.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\Antony\Documents\Beras sistemas\jwt_authorization\obj\Debug\net6.0\jwt_authorization.MvcApplicationPartsAssemblyInfo.cache
+F:\GITHUB\jwt_authorization\obj\Debug\net6.0\jwt_authorization.csproj.AssemblyReference.cache
+F:\GITHUB\jwt_authorization\obj\Debug\net6.0\jwt_authorization.GeneratedMSBuildEditorConfig.editorconfig
+F:\GITHUB\jwt_authorization\obj\Debug\net6.0\jwt_authorization.AssemblyInfoInputs.cache
+F:\GITHUB\jwt_authorization\obj\Debug\net6.0\jwt_authorization.AssemblyInfo.cs
+F:\GITHUB\jwt_authorization\obj\Debug\net6.0\jwt_authorization.csproj.CoreCompileInputs.cache
+F:\GITHUB\jwt_authorization\obj\Debug\net6.0\jwt_authorization.MvcApplicationPartsAssemblyInfo.cs
+F:\GITHUB\jwt_authorization\obj\Debug\net6.0\jwt_authorization.MvcApplicationPartsAssemblyInfo.cache
+F:\GITHUB\jwt_authorization\bin\Debug\net6.0\appsettings.Development.json
+F:\GITHUB\jwt_authorization\bin\Debug\net6.0\appsettings.json
+F:\GITHUB\jwt_authorization\bin\Debug\net6.0\jwt_authorization.exe
+F:\GITHUB\jwt_authorization\bin\Debug\net6.0\jwt_authorization.deps.json
+F:\GITHUB\jwt_authorization\bin\Debug\net6.0\jwt_authorization.runtimeconfig.json
+F:\GITHUB\jwt_authorization\bin\Debug\net6.0\jwt_authorization.dll
+F:\GITHUB\jwt_authorization\bin\Debug\net6.0\jwt_authorization.pdb
+F:\GITHUB\jwt_authorization\bin\Debug\net6.0\JWT.dll
+F:\GITHUB\jwt_authorization\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\GITHUB\jwt_authorization\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\GITHUB\jwt_authorization\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\GITHUB\jwt_authorization\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\GITHUB\jwt_authorization\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\GITHUB\jwt_authorization\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\GITHUB\jwt_authorization\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\GITHUB\jwt_authorization\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\GITHUB\jwt_authorization\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\GITHUB\jwt_authorization\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\GITHUB\jwt_authorization\bin\Debug\net6.0\System.Text.Json.dll
+F:\GITHUB\jwt_authorization\obj\Debug\net6.0\staticwebassets.build.json
+F:\GITHUB\jwt_authorization\obj\Debug\net6.0\staticwebassets.development.json
+F:\GITHUB\jwt_authorization\obj\Debug\net6.0\scopedcss\bundle\jwt_authorization.styles.css
+F:\GITHUB\jwt_authorization\obj\Debug\net6.0\jwt_authorization.csproj.CopyComplete
+F:\GITHUB\jwt_authorization\obj\Debug\net6.0\jwt_authorization.dll
+F:\GITHUB\jwt_authorization\obj\Debug\net6.0\refint\jwt_authorization.dll
+F:\GITHUB\jwt_authorization\obj\Debug\net6.0\jwt_authorization.pdb
+F:\GITHUB\jwt_authorization\obj\Debug\net6.0\jwt_authorization.genruntimeconfig.cache
+F:\GITHUB\jwt_authorization\obj\Debug\net6.0\ref\jwt_authorization.dll
+F:\GITHUB\jwt_authorization\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\GITHUB\jwt_authorization\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\GITHUB\jwt_authorization\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NGFTxEjFuT+w9JPjkovZPmTdrZi7QerU+wFD9yILO5U=",
+  "Source": "jwt_authorization",
+  "BasePath": "_content/jwt_authorization",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
